@@ -1,0 +1,836 @@
+0 | 0x0
+ Key: 06.0e.2b.34.02.05.01.01.0d.01.02.01.01.02.04.00 -> Partition Pack -> Header Partition -> closed and complete
+ Length: 152 | 0x98
+
+172 | 0xac
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 320 | 0x140
+
+512 | 0x200
+ Key: 06.0e.2b.34.02.05.01.01.0d.01.02.01.01.05.01.00 -> PrimerPack
+ Length: 2078 | 0x81e
+
+2610 | 0xa32
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 442 | 0x1ba
+
+3072 | 0xc00
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.2f.00 -> Structural Metadata -> Preface
+ Length: 194 | 0xc2
+
+3286 | 0xcd6
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.30.00 -> Structural Metadata -> Identification
+ Length: 116 | 0x74
+
+3422 | 0xd5e
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.18.00 -> Structural Metadata -> Content Storage
+ Length: 92 | 0x5c
+
+3534 | 0xdce
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.36.00 -> Structural Metadata -> Material Package
+ Length: 268 | 0x10c
+
+3822 | 0xeee
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+3922 | 0xf52
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+4022 | 0xfb6
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.14.00 -> Structural Metadata -> Timecode Component
+ Length: 75 | 0x4b
+
+4117 | 0x1015
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+4217 | 0x1079
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+4317 | 0x10dd
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+4445 | 0x115d
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+4545 | 0x11c1
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+4645 | 0x1225
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+4773 | 0x12a5
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+4873 | 0x1309
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+4973 | 0x136d
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+5101 | 0x13ed
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+5201 | 0x1451
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+5301 | 0x14b5
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+5429 | 0x1535
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+5529 | 0x1599
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+5629 | 0x15fd
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+5757 | 0x167d
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+5857 | 0x16e1
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+5957 | 0x1745
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+6085 | 0x17c5
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+6185 | 0x1829
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+6285 | 0x188d
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+6413 | 0x190d
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+6513 | 0x1971
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+6613 | 0x19d5
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+6741 | 0x1a55
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+6841 | 0x1ab9
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+6941 | 0x1b1d
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+7069 | 0x1b9d
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+7169 | 0x1c01
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+7269 | 0x1c65
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+7397 | 0x1ce5
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.37.00 -> Structural Metadata -> Source Package
+ Length: 288 | 0x120
+
+7705 | 0x1e19
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.44.00 -> Structural Metadata -> Multiple Descriptor
+ Length: 224 | 0xe0
+
+7949 | 0x1f0d
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+8049 | 0x1f71
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+8149 | 0x1fd5
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.14.00 -> Structural Metadata -> Timecode Component
+ Length: 75 | 0x4b
+
+8244 | 0x2034
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+8344 | 0x2098
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+8444 | 0x20fc
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+8572 | 0x217c
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.28.00 -> Structural Metadata -> CDCI Essence Descriptor
+ Length: 383 | 0x17f
+
+8975 | 0x230f
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.6e.00 -> Structural Metadata -> AVC Sub Descriptor
+ Length: 95 | 0x5f
+
+9090 | 0x2382
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+9190 | 0x23e6
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+9290 | 0x244a
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+9418 | 0x24ca
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.47.00 -> Structural Metadata -> AES3 Audio Essence Descriptor
+ Length: 107 | 0x6b
+
+9545 | 0x2549
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+9645 | 0x25ad
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+9745 | 0x2611
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+9873 | 0x2691
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.47.00 -> Structural Metadata -> AES3 Audio Essence Descriptor
+ Length: 107 | 0x6b
+
+10000 | 0x2710
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+10100 | 0x2774
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+10200 | 0x27d8
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+10328 | 0x2858
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.47.00 -> Structural Metadata -> AES3 Audio Essence Descriptor
+ Length: 107 | 0x6b
+
+10455 | 0x28d7
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+10555 | 0x293b
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+10655 | 0x299f
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+10783 | 0x2a1f
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.47.00 -> Structural Metadata -> AES3 Audio Essence Descriptor
+ Length: 107 | 0x6b
+
+10910 | 0x2a9e
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+11010 | 0x2b02
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+11110 | 0x2b66
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+11238 | 0x2be6
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.47.00 -> Structural Metadata -> AES3 Audio Essence Descriptor
+ Length: 107 | 0x6b
+
+11365 | 0x2c65
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+11465 | 0x2cc9
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+11565 | 0x2d2d
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+11693 | 0x2dad
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.47.00 -> Structural Metadata -> AES3 Audio Essence Descriptor
+ Length: 107 | 0x6b
+
+11820 | 0x2e2c
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+11920 | 0x2e90
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+12020 | 0x2ef4
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+12148 | 0x2f74
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.47.00 -> Structural Metadata -> AES3 Audio Essence Descriptor
+ Length: 107 | 0x6b
+
+12275 | 0x2ff3
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+12375 | 0x3057
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+12475 | 0x30bb
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+12603 | 0x313b
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.47.00 -> Structural Metadata -> AES3 Audio Essence Descriptor
+ Length: 107 | 0x6b
+
+12730 | 0x31ba
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.3b.00 -> Structural Metadata -> Timeline Track
+ Length: 80 | 0x50
+
+12830 | 0x321e
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.0f.00 -> Structural Metadata -> Sequence
+ Length: 80 | 0x50
+
+12930 | 0x3282
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.11.00 -> Structural Metadata -> Source Clip
+ Length: 108 | 0x6c
+
+13058 | 0x3302
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.5c.00 -> Structural Metadata -> ANC Packets Descriptor
+ Length: 60 | 0x3c
+
+13138 | 0x3352
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.01.01.01.01.23.00 -> Structural Metadata -> Essence Container Data
+ Length: 72 | 0x48
+
+13230 | 0x33ae
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 62 | 0x3e
+
+13312 | 0x3400
+ Key: 06.0e.2b.34.02.53.01.01.0d.01.02.01.01.10.01.00 -> Index Table Segment
+ Length: 163 | 0xa3
+
+13495 | 0x34b7
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 309 | 0x135
+
+13824 | 0x3600
+ Key: 06.0e.2b.34.02.05.01.01.0d.01.03.01.04.01.01.00 ->  MXF Generic Container Version 1 SMPTE 385M System Metadata Pack TrackNumber = 67174656 | 0x04010100 (ItemType=04h, SchemeIdentifier=01h, MetadataOrControlElementIdentifier=01h, MetadataElementUse=00h)
+ Length: 57 | 0x39
+
+13901 | 0x364d
+ Key: 06.0e.2b.34.02.43.01.01.0d.01.03.01.04.01.02.01 ->  MXF Generic Container Version 1 SMPTE 385M Package Metadata Set TrackNumber = 67174913 | 0x04010201 (ItemType=04h, SchemeIdentifier=01h, MetadataOrControlElementIdentifier=02h, MetadataElementUse=01h)
+ Length: 35 | 0x23
+
+13956 | 0x3684
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 360 | 0x168
+
+14336 | 0x3800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.15.01.05.00 -> MXF Generic Container Version 1 SMPTE 381M MPEG Frame-Wrapped Picture Essence TrackNumber = 352388352 | 0x15010500 (ItemType=15h, NrOfElements=01h, ElementType=05h, ElementNr=00h)
+ Length: 1260032 | 0x133a00
+
+1274388 | 0x137214
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 472 | 0x1d8
+
+1274880 | 0x137400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.00 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623808 | 0x16080300 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=00h)
+ Length: 2880 | 0xb40
+
+1277780 | 0x137f54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+1277952 | 0x138000
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.01 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623809 | 0x16080301 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=01h)
+ Length: 2880 | 0xb40
+
+1280852 | 0x138b54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+1281024 | 0x138c00
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.02 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623810 | 0x16080302 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=02h)
+ Length: 2880 | 0xb40
+
+1283924 | 0x139754
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+1284096 | 0x139800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.03 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623811 | 0x16080303 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=03h)
+ Length: 2880 | 0xb40
+
+1286996 | 0x13a354
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+1287168 | 0x13a400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.04 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623812 | 0x16080304 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=04h)
+ Length: 2880 | 0xb40
+
+1290068 | 0x13af54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+1290240 | 0x13b000
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.05 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623813 | 0x16080305 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=05h)
+ Length: 2880 | 0xb40
+
+1293140 | 0x13bb54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+1293312 | 0x13bc00
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.06 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623814 | 0x16080306 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=06h)
+ Length: 2880 | 0xb40
+
+1296212 | 0x13c754
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+1296384 | 0x13c800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.07 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623815 | 0x16080307 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=07h)
+ Length: 2880 | 0xb40
+
+1299284 | 0x13d354
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+1299456 | 0x13d400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.17.01.02.01 -> MXF Generic Container Version 1 SMPTE 436M Frame-Wrapped ANC Data Essence TrackNumber = 385942017 | 0x17010201 (ItemType=17h, NrOfElements=01h, ElementType=02h, ElementNr=01h)
+ Length: 28 | 0x1c
+
+1299504 | 0x13d430
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 444 | 0x1bc
+
+1299968 | 0x13d600
+ Key: 06.0e.2b.34.02.05.01.01.0d.01.03.01.04.01.01.00 ->  MXF Generic Container Version 1 SMPTE 385M System Metadata Pack TrackNumber = 67174656 | 0x04010100 (ItemType=04h, SchemeIdentifier=01h, MetadataOrControlElementIdentifier=01h, MetadataElementUse=00h)
+ Length: 57 | 0x39
+
+1300045 | 0x13d64d
+ Key: 06.0e.2b.34.02.43.01.01.0d.01.03.01.04.01.02.01 ->  MXF Generic Container Version 1 SMPTE 385M Package Metadata Set TrackNumber = 67174913 | 0x04010201 (ItemType=04h, SchemeIdentifier=01h, MetadataOrControlElementIdentifier=02h, MetadataElementUse=01h)
+ Length: 35 | 0x23
+
+1300100 | 0x13d684
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 360 | 0x168
+
+1300480 | 0x13d800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.15.01.05.00 -> MXF Generic Container Version 1 SMPTE 381M MPEG Frame-Wrapped Picture Essence TrackNumber = 352388352 | 0x15010500 (ItemType=15h, NrOfElements=01h, ElementType=05h, ElementNr=00h)
+ Length: 1260032 | 0x133a00
+
+2560532 | 0x271214
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 472 | 0x1d8
+
+2561024 | 0x271400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.00 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623808 | 0x16080300 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=00h)
+ Length: 2880 | 0xb40
+
+2563924 | 0x271f54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+2564096 | 0x272000
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.01 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623809 | 0x16080301 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=01h)
+ Length: 2880 | 0xb40
+
+2566996 | 0x272b54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+2567168 | 0x272c00
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.02 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623810 | 0x16080302 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=02h)
+ Length: 2880 | 0xb40
+
+2570068 | 0x273754
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+2570240 | 0x273800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.03 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623811 | 0x16080303 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=03h)
+ Length: 2880 | 0xb40
+
+2573140 | 0x274354
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+2573312 | 0x274400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.04 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623812 | 0x16080304 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=04h)
+ Length: 2880 | 0xb40
+
+2576212 | 0x274f54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+2576384 | 0x275000
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.05 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623813 | 0x16080305 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=05h)
+ Length: 2880 | 0xb40
+
+2579284 | 0x275b54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+2579456 | 0x275c00
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.06 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623814 | 0x16080306 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=06h)
+ Length: 2880 | 0xb40
+
+2582356 | 0x276754
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+2582528 | 0x276800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.07 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623815 | 0x16080307 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=07h)
+ Length: 2880 | 0xb40
+
+2585428 | 0x277354
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+2585600 | 0x277400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.17.01.02.01 -> MXF Generic Container Version 1 SMPTE 436M Frame-Wrapped ANC Data Essence TrackNumber = 385942017 | 0x17010201 (ItemType=17h, NrOfElements=01h, ElementType=02h, ElementNr=01h)
+ Length: 28 | 0x1c
+
+2585648 | 0x277430
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 444 | 0x1bc
+
+2586112 | 0x277600
+ Key: 06.0e.2b.34.02.05.01.01.0d.01.03.01.04.01.01.00 ->  MXF Generic Container Version 1 SMPTE 385M System Metadata Pack TrackNumber = 67174656 | 0x04010100 (ItemType=04h, SchemeIdentifier=01h, MetadataOrControlElementIdentifier=01h, MetadataElementUse=00h)
+ Length: 57 | 0x39
+
+2586189 | 0x27764d
+ Key: 06.0e.2b.34.02.43.01.01.0d.01.03.01.04.01.02.01 ->  MXF Generic Container Version 1 SMPTE 385M Package Metadata Set TrackNumber = 67174913 | 0x04010201 (ItemType=04h, SchemeIdentifier=01h, MetadataOrControlElementIdentifier=02h, MetadataElementUse=01h)
+ Length: 35 | 0x23
+
+2586244 | 0x277684
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 360 | 0x168
+
+2586624 | 0x277800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.15.01.05.00 -> MXF Generic Container Version 1 SMPTE 381M MPEG Frame-Wrapped Picture Essence TrackNumber = 352388352 | 0x15010500 (ItemType=15h, NrOfElements=01h, ElementType=05h, ElementNr=00h)
+ Length: 1260032 | 0x133a00
+
+3846676 | 0x3ab214
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 472 | 0x1d8
+
+3847168 | 0x3ab400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.00 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623808 | 0x16080300 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=00h)
+ Length: 2880 | 0xb40
+
+3850068 | 0x3abf54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+3850240 | 0x3ac000
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.01 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623809 | 0x16080301 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=01h)
+ Length: 2880 | 0xb40
+
+3853140 | 0x3acb54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+3853312 | 0x3acc00
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.02 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623810 | 0x16080302 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=02h)
+ Length: 2880 | 0xb40
+
+3856212 | 0x3ad754
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+3856384 | 0x3ad800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.03 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623811 | 0x16080303 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=03h)
+ Length: 2880 | 0xb40
+
+3859284 | 0x3ae354
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+3859456 | 0x3ae400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.04 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623812 | 0x16080304 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=04h)
+ Length: 2880 | 0xb40
+
+3862356 | 0x3aef54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+3862528 | 0x3af000
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.05 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623813 | 0x16080305 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=05h)
+ Length: 2880 | 0xb40
+
+3865428 | 0x3afb54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+3865600 | 0x3afc00
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.06 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623814 | 0x16080306 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=06h)
+ Length: 2880 | 0xb40
+
+3868500 | 0x3b0754
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+3868672 | 0x3b0800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.07 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623815 | 0x16080307 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=07h)
+ Length: 2880 | 0xb40
+
+3871572 | 0x3b1354
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+3871744 | 0x3b1400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.17.01.02.01 -> MXF Generic Container Version 1 SMPTE 436M Frame-Wrapped ANC Data Essence TrackNumber = 385942017 | 0x17010201 (ItemType=17h, NrOfElements=01h, ElementType=02h, ElementNr=01h)
+ Length: 28 | 0x1c
+
+3871792 | 0x3b1430
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 444 | 0x1bc
+
+3872256 | 0x3b1600
+ Key: 06.0e.2b.34.02.05.01.01.0d.01.03.01.04.01.01.00 ->  MXF Generic Container Version 1 SMPTE 385M System Metadata Pack TrackNumber = 67174656 | 0x04010100 (ItemType=04h, SchemeIdentifier=01h, MetadataOrControlElementIdentifier=01h, MetadataElementUse=00h)
+ Length: 57 | 0x39
+
+3872333 | 0x3b164d
+ Key: 06.0e.2b.34.02.43.01.01.0d.01.03.01.04.01.02.01 ->  MXF Generic Container Version 1 SMPTE 385M Package Metadata Set TrackNumber = 67174913 | 0x04010201 (ItemType=04h, SchemeIdentifier=01h, MetadataOrControlElementIdentifier=02h, MetadataElementUse=01h)
+ Length: 35 | 0x23
+
+3872388 | 0x3b1684
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 360 | 0x168
+
+3872768 | 0x3b1800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.15.01.05.00 -> MXF Generic Container Version 1 SMPTE 381M MPEG Frame-Wrapped Picture Essence TrackNumber = 352388352 | 0x15010500 (ItemType=15h, NrOfElements=01h, ElementType=05h, ElementNr=00h)
+ Length: 1260032 | 0x133a00
+
+5132820 | 0x4e5214
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 472 | 0x1d8
+
+5133312 | 0x4e5400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.00 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623808 | 0x16080300 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=00h)
+ Length: 2880 | 0xb40
+
+5136212 | 0x4e5f54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+5136384 | 0x4e6000
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.01 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623809 | 0x16080301 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=01h)
+ Length: 2880 | 0xb40
+
+5139284 | 0x4e6b54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+5139456 | 0x4e6c00
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.02 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623810 | 0x16080302 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=02h)
+ Length: 2880 | 0xb40
+
+5142356 | 0x4e7754
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+5142528 | 0x4e7800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.03 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623811 | 0x16080303 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=03h)
+ Length: 2880 | 0xb40
+
+5145428 | 0x4e8354
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+5145600 | 0x4e8400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.04 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623812 | 0x16080304 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=04h)
+ Length: 2880 | 0xb40
+
+5148500 | 0x4e8f54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+5148672 | 0x4e9000
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.05 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623813 | 0x16080305 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=05h)
+ Length: 2880 | 0xb40
+
+5151572 | 0x4e9b54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+5151744 | 0x4e9c00
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.06 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623814 | 0x16080306 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=06h)
+ Length: 2880 | 0xb40
+
+5154644 | 0x4ea754
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+5154816 | 0x4ea800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.07 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623815 | 0x16080307 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=07h)
+ Length: 2880 | 0xb40
+
+5157716 | 0x4eb354
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+5157888 | 0x4eb400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.17.01.02.01 -> MXF Generic Container Version 1 SMPTE 436M Frame-Wrapped ANC Data Essence TrackNumber = 385942017 | 0x17010201 (ItemType=17h, NrOfElements=01h, ElementType=02h, ElementNr=01h)
+ Length: 28 | 0x1c
+
+5157936 | 0x4eb430
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 444 | 0x1bc
+
+5158400 | 0x4eb600
+ Key: 06.0e.2b.34.02.05.01.01.0d.01.03.01.04.01.01.00 ->  MXF Generic Container Version 1 SMPTE 385M System Metadata Pack TrackNumber = 67174656 | 0x04010100 (ItemType=04h, SchemeIdentifier=01h, MetadataOrControlElementIdentifier=01h, MetadataElementUse=00h)
+ Length: 57 | 0x39
+
+5158477 | 0x4eb64d
+ Key: 06.0e.2b.34.02.43.01.01.0d.01.03.01.04.01.02.01 ->  MXF Generic Container Version 1 SMPTE 385M Package Metadata Set TrackNumber = 67174913 | 0x04010201 (ItemType=04h, SchemeIdentifier=01h, MetadataOrControlElementIdentifier=02h, MetadataElementUse=01h)
+ Length: 35 | 0x23
+
+5158532 | 0x4eb684
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 360 | 0x168
+
+5158912 | 0x4eb800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.15.01.05.00 -> MXF Generic Container Version 1 SMPTE 381M MPEG Frame-Wrapped Picture Essence TrackNumber = 352388352 | 0x15010500 (ItemType=15h, NrOfElements=01h, ElementType=05h, ElementNr=00h)
+ Length: 1260032 | 0x133a00
+
+6418964 | 0x61f214
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 472 | 0x1d8
+
+6419456 | 0x61f400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.00 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623808 | 0x16080300 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=00h)
+ Length: 2880 | 0xb40
+
+6422356 | 0x61ff54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+6422528 | 0x620000
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.01 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623809 | 0x16080301 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=01h)
+ Length: 2880 | 0xb40
+
+6425428 | 0x620b54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+6425600 | 0x620c00
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.02 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623810 | 0x16080302 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=02h)
+ Length: 2880 | 0xb40
+
+6428500 | 0x621754
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+6428672 | 0x621800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.03 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623811 | 0x16080303 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=03h)
+ Length: 2880 | 0xb40
+
+6431572 | 0x622354
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+6431744 | 0x622400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.04 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623812 | 0x16080304 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=04h)
+ Length: 2880 | 0xb40
+
+6434644 | 0x622f54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+6434816 | 0x623000
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.05 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623813 | 0x16080305 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=05h)
+ Length: 2880 | 0xb40
+
+6437716 | 0x623b54
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+6437888 | 0x623c00
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.06 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623814 | 0x16080306 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=06h)
+ Length: 2880 | 0xb40
+
+6440788 | 0x624754
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+6440960 | 0x624800
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.16.08.03.07 -> MXF Generic Container Version 1 SMPTE 382M AES Frame-wrapped Sound Essence TrackNumber = 369623815 | 0x16080307 (ItemType=16h, NrOfElements=08h, ElementType=03h, ElementNr=07h)
+ Length: 2880 | 0xb40
+
+6443860 | 0x625354
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 152 | 0x98
+
+6444032 | 0x625400
+ Key: 06.0e.2b.34.01.02.01.01.0d.01.03.01.17.01.02.01 -> MXF Generic Container Version 1 SMPTE 436M Frame-Wrapped ANC Data Essence TrackNumber = 385942017 | 0x17010201 (ItemType=17h, NrOfElements=01h, ElementType=02h, ElementNr=01h)
+ Length: 28 | 0x1c
+
+6444080 | 0x625430
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 444 | 0x1bc
+
+6444544 | 0x625600
+ Key: 06.0e.2b.34.02.05.01.01.0d.01.02.01.01.04.04.00 -> Partition Pack -> Footer Partition -> closed and complete
+ Length: 152 | 0x98
+
+6444716 | 0x6256ac
+ Key: 06.0e.2b.34.01.01.01.02.03.01.02.10.01.00.00.00 -> Fill Item
+ Length: 320 | 0x140
+
+
+
+------------+---------+---------+---------------------------------------------------------------
+Created with MXFAnalyserPro Version 4.1.5833.42553 (C) Institut für Rundfunktechnik at ?? ?? 21 10:44:30 2018
